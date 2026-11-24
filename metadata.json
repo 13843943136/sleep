@@ -1,0 +1,6 @@
+{
+  "name": "思利普智能管理系统",
+  "description": "汽车座椅及内饰制造企业级智能管理平台，覆盖驾驶舱、询价中心、生产计划、审核中心、数据与知识、系统管理与智能体管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
